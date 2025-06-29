@@ -18,7 +18,7 @@ public class JokesController {
 
 
 
-    @GetMapping("/randome")
+    @GetMapping("/random")
     public ResponseEntity<Jokes> getRandomJoke(){
         Jokes joke=jokesService.getRandomJoke();
         if (joke!=null){
