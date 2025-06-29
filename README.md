@@ -58,7 +58,7 @@ GET http://localhost:8080/jokes/random
 #### Example Request
 
 ```bash
-curl http://localhost:8080/jokes/random
+curl http://localhost:8080/Joke/random
 ```
 
 #### Example Response
