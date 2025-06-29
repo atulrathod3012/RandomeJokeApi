@@ -1,7 +1,9 @@
 ```markdown
 # RandomeJokeApi
 
-Randome Joke API is a RESTful web service created using the Spring Boot framework. This API provides random jokes via HTTP endpoints and can be easily integrated into other applications or used as a fun standalone service.
+Randome Joke API is a RESTful web service created using the Spring
+ Boot framework. This API provides random jokes via HTTP endpoints and can be easily 
+ integrated into other applications or used as a fun standalone service.
 
 ## Features
 
